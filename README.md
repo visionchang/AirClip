@@ -5,10 +5,10 @@ English | [简体中文](README.zh-CN.md)
 **A clipboard history manager for Mac and iPhone.** AirClip records what you copy, keeps it searchable, and syncs it across your devices through iCloud.
 
 <p align="center">
-  <img src="screenshots/macos-panel.png" width="720" alt="AirClip slide-out panel and menu bar on macOS" />
+  <img src="screenshots/macos-panel.jpg" width="720" alt="AirClip slide-out panel and menu bar on macOS" />
 </p>
 <p align="center">
-  <img src="screenshots/macos-window.png" width="720" alt="AirClip floating window on macOS" />
+  <img src="screenshots/macos-window.jpg" width="720" alt="AirClip floating window on macOS" />
 </p>
 
 ## Features

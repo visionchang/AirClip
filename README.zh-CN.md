@@ -5,10 +5,10 @@
 **面向 Mac 和 iPhone 的剪贴板历史管理工具。** AirClip 会记录你复制过的内容，支持搜索，并通过 iCloud 在设备间同步。
 
 <p align="center">
-  <img src="screenshots/macos-panel.png" width="720" alt="macOS 上的 AirClip 侧边面板与菜单栏" />
+  <img src="screenshots/macos-panel.jpg" width="720" alt="macOS 上的 AirClip 侧边面板与菜单栏" />
 </p>
 <p align="center">
-  <img src="screenshots/macos-window.png" width="720" alt="macOS 上的 AirClip 独立窗口" />
+  <img src="screenshots/macos-window.jpg" width="720" alt="macOS 上的 AirClip 独立窗口" />
 </p>
 
 ## 功能
